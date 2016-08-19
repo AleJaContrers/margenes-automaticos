@@ -1,0 +1,16 @@
+.primero{
+	margin:0px;
+	width:200px;
+	border:20px solid yellow;
+	padding:55px;
+	text-align: center;
+}
+
+#primera{
+	margin:0px;
+	margin-left:500px;
+	width:200px;
+	border:20px solid yellow;
+	padding:55px;
+	text-align: left;
+}
